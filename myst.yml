@@ -1,0 +1,38 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 239da938-5635-4500-b5c2-8af170f8c785
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  # github: https://github.com/mkldocs/zpwjp
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: index.md
+    - title: Wykład
+      children:
+        - file: wyklad/01-klasy-obiekty/01-klasy-obiekty-wyklad.ipynb
+          title: Programowanie obiektowe — klasy, obiekty
+          children:
+            - file: wyklad/01-klasy-obiekty/01-podsumowanie.md
+              title: Podsumowanie
+            - file: wyklad/01-klasy-obiekty/01-odpowiedzi.md
+              title: Odpowiedzi do ćwiczeń
+            - file: wyklad/01-klasy-obiekty/01-materialy.md
+              title: Pliki do pobrania
+        - file: wyklad/02-referencje-kopie/02-referencje-kopie.md
+          title: Programowanie obiektowe — referencje i kopie obiektów
+    - title: Zadania
+      children:
+        - file: zadania/zestaw-01/temperatury.md
+          title: Zestaw 1 — Zadania powtórzeniowe (listy, krotki, słowniki, wyjątki, pliki)
+  static_files:
+    - zadania/zestaw-01/zestaw-01
+    - materialy/notebooki
+    - materialy/notebooki-pdf
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
