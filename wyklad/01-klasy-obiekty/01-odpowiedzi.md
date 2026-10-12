@@ -1,6 +1,6 @@
 # Odpowiedzi do ćwiczeń
 
-Przykładowe odpowiedzi do ćwiczeń.
+Przykładowe odpowiedzi do ćwiczeń:
 
 1.
 
