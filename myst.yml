@@ -33,6 +33,8 @@ project:
     - materialy/notebooki-pdf
 site:
   template: book-theme
+  options:
+    logo_text: Zaawansowane programowanie w języku Python (geoinformatyka)
   # options:
   #   favicon: favicon.ico
   #   logo: site_logo.png
