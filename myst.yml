@@ -21,8 +21,8 @@ project:
               title: Odpowiedzi do ćwiczeń
             - file: wyklad/01-klasy-obiekty/01-materialy.md
               title: Pliki do pobrania
-        - file: wyklad/02-referencje-kopie/02-referencje-kopie.md
-          title: Programowanie obiektowe — referencje i kopie obiektów
+        # - file: wyklad/02-referencje-kopie/02-referencje-kopie.md
+        #   title: Programowanie obiektowe — referencje i kopie obiektów
     - title: Zadania
       children:
         - file: zadania/zestaw-01/temperatury.md
