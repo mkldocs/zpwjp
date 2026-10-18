@@ -31,6 +31,7 @@ project:
     - zadania/zestaw-01/zestaw-01
     - materialy/notebooki
     - materialy/notebooki-pdf
+
 site:
   template: book-theme
   options:
