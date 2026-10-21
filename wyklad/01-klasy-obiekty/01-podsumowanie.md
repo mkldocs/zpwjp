@@ -26,7 +26,7 @@ Jeżeli czegoś nie rozumiesz lub nie potrafisz wykonać, wróć do odpowiednieg
 
 Część ćwiczeń zakłada wykonanie ich w trybie interaktywnym z załadowanymi odpowiednimi plikami źródłowymi. Możesz zamiast tego dopisać kod źródłowy wykonujący odpowiednie czynności i wyświetlający istotne informacje.
 
-* [Przykładowe odpowiedzi do ćwiczeń](01-odpowiedzi)
+* [Przykładowe odpowiedzi do ćwiczeń](odpowiedzi)
 
 ### 1. Utworzenie klasy
 
